@@ -5,7 +5,11 @@
  
  Dadas dos secuencias X e Y, se dice que Z es una subsecuencia común de X e Y si es subsecuencia de X y subsecuencia de Y.
  
+ Algoritmo ávido.
+ 
  Complejidad: O(n+m) debido a que los bucles dependen exclusivamente de la longitud de los arreglos (n y m)
+ 
+ Referencia: GeeksforGeeks y visualización en http://lcs-demo.sourceforge.net/
  
  */
 
