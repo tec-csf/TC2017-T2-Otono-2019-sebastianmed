@@ -8,6 +8,8 @@
  > Existe una mujer m’ (que forma la pareja (h’,m’)) tal que el hombre h la prefiere sobre la mujer m y además la mujer m’ también prefiere a h sobre h’.
  > Existe un hombre h” (que forma la pareja (h”,m”)) tal que la mujer m lo prefiere sobre el hombre h y además el hombre h” también prefiere a m sobre la mujer m”.
   
+ Algoritmo backtracking
+ 
  Complejidad: O(n^2) por el recorrido de la matriz (se necesita un bucle dentro de otro)
  
  Referencia: GeeksForGeeks
